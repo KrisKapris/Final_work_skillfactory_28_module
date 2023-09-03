@@ -34,19 +34,19 @@
 ***
 **:bookmark_tabs: В корневом каталоге проекта содержаться:**
 * [config.py](https://github.com/KrisKapris/Final_work_skillfactory_28_module/blob/e491cc7f5d33a97bea8d139b7e5ece7bad8fe39f/config.py) - содержит переменные используемые в проекте;
-* [README.md](СЮДА ВСТАВЬ ССЫЛКУ) - содержит информацию в целом о проекте;
-* [requirements.txt](СЮДА ВСТАВЬ ССЫЛКУ) - содержит все библиотеки и зависимости проекта.
+* [README.md](https://github.com/KrisKapris/Final_work_skillfactory_28_module/blob/446b806d8575e042768357003e53796a7591856f/README.md) - содержит информацию в целом о проекте;
+* [requirements.txt](https://github.com/KrisKapris/Final_work_skillfactory_28_module/blob/446b806d8575e042768357003e53796a7591856f/requirements.txt) - содержит все библиотеки и зависимости проекта.
 ***
 **:bookmark_tabs: Директория driver содержит:**
-* [chromedriver.exe](СЮДА ВСТАВЬ ССЫЛКУ) - драйвер для управления браузером Chrome.
+* [chromedriver.exe](https://github.com/KrisKapris/Final_work_skillfactory_28_module/tree/446b806d8575e042768357003e53796a7591856f/chromedriver_mac_arm64) - драйвер для управления браузером Chrome.
 ***
 **:bookmark_tabs: Директория tests содержит:**
-* [test_authorization_interface.py](СЮДА ВСТАВЬ ССЫЛКУ) - файл автотестов;
-* [conftest.py](СЮДА ВСТАВЬ ССЫЛКУ) - условия для выполнения тестовых задач.
+* [test_authorization_interface.py](https://github.com/KrisKapris/Final_work_skillfactory_28_module/blob/446b806d8575e042768357003e53796a7591856f/tests/test_authorization_interface.py) - файл автотестов;
+* [conftest.py](https://github.com/KrisKapris/Final_work_skillfactory_28_module/blob/446b806d8575e042768357003e53796a7591856f/tests/conftest.py) - условия для выполнения тестовых задач.
 ***
 **:bookmark_tabs: Директория pages содержит:**
-* [locators.py](СЮДА ВСТАВЬ ССЫЛКУ) - содержит описание локаторов проекта;
-* [base_page.py](СЮДА ВСТАВЬ ССЫЛКУ) - содержит базовые функции и методы.
+* [locators.py](https://github.com/KrisKapris/Final_work_skillfactory_28_module/blob/446b806d8575e042768357003e53796a7591856f/pages/locators.py) - содержит описание локаторов проекта;
+* [base_page.py](https://github.com/KrisKapris/Final_work_skillfactory_28_module/blob/446b806d8575e042768357003e53796a7591856f/pages/base_page.py) - содержит базовые функции и методы.
 ***
 
 
