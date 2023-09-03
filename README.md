@@ -65,7 +65,7 @@
 ### Инструменты, которые применялись для тестирования.
 
 * Для тестирования сайта был использован 
-интсрумент [Selenium](СЮДА ВСТАВЬ ССЫЛКУ);
+интсрумент [Selenium](https://www.selenium.dev/);
 * Для определения локаторов использовались 
 следующие инструменты: DevTools, [ChroPath](https://chrome.google.com/webstore/detail/chropath/ljngjbnaijcbncmcnjfhigebomdlkcjo). 
 
