@@ -72,6 +72,5 @@
 ### Запуск тестов:
 * установить все библиотеки и зависимости: `pip install -r requirements.txt`;
 * загрузите [Selenium WebDriver](https://chromedriver.chromium.org/downloads) (выберите версию, совместимую с вашим браузером) и прописать путь к драйверу в переменную PATH в файле config.py;
-* запустить тест: `python -m pytest -v --driver Chrome --driver-path Final_work_skillfactory_28_module
-/chromedriver_mac_arm64/chromedriver tests/test_authorization_interface.py`.
+* запустить тест: `python -m pytest -v --driver Chrome --driver-path Final_work_skillfactory_28_module/chromedriver_mac_arm64/chromedriver tests/test_authorization_interface.py`.
 
