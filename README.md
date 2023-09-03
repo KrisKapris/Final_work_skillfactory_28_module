@@ -53,7 +53,7 @@
 → [Протестированные требования (.doc).](https://docs.google.com/document/d/1bXnoPMj2mCpIH-0sEYF6w0exoV_dC41i/edit?usp=sharing&ouid=105971517531308400217&rtpof=true&sd=true) Оформлены в виде комментариев (в комментариях указано как это выглядит на сайте).
 
 
-→ [Тест-кейсы, дефекты (.excel)](СЮДА ВСТАВЬ ССЫЛКУ)
+→ [Тест-кейсы, дефекты (.excel)](https://docs.google.com/spreadsheets/d/18VQkpXNBNLvBAAgzLTzRvRd_rO1bYEgy8nKsURoegmU/edit?usp=sharing)
 
 ### При разработке тест-кейсов были применены следующие техники тест-дизайна: 
  
